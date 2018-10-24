@@ -50,7 +50,7 @@ but i am keen to explore them..in real world projects.
 {{ site.baseurl }}
 If you like to know more here is link to my [CV](_data) where things are little detailed.
 If you want to know more about my [hobbies](hobbies)
-[a relative link]
+
 
 
 As my good frend once said:

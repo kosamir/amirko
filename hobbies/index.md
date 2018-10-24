@@ -2,6 +2,8 @@
 layout: post
 title: Hobbies
 ---
+My hobies includes all kind of crazy stuf.. 
+if you are interested you can check it out on my [Youtube](https://www.youtube.com/channel/UCEX5HdbTHiak9DOg4NzSy6w) chanell.
 
 
 After i've sucesfully finished my childhood dream project and (more or less) 

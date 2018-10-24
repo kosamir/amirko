@@ -12,7 +12,7 @@ if you are interested you can check it out on my [Youtube](https://www.youtube.c
 
 After i've sucesfully finished my childhood dream project and (more or less) sucessfully landed wingusit without parachute 6 years ago, i have decided to return MORE seriously to my previous love and that is software development.
 
-After couple of failed attempts with geodesy I have finished computer programing on FESB(gen 2005) afterward
+After couple of failed attempts with geodesy I have finished computer programing on FESB(graduated 2005) afterward
 s i have worked for couple off small it companies mainly as J2EE software developer.
 I came to the working for financial institiution  as J2EE architect in 2006.. and i work here still after all those years :)
 
@@ -34,28 +34,29 @@ With technologies like:
 
 Big FAN of continuos automated software build/test/development( Jenkins, Maven, Ant)
 
-I am not currently working on any project with all that new toys,
-but  reading a lot about stuff that intrigues me like
+
+Currently reading a lot about stuff that intrigues me like
 
 * cloud technologies (AWS, Docker) 
 
-Occasionally i make high dive into endless jungle of javascript libraries like: 
+Occasionally makeing high dive into endless jungle of javascript libraries like: 
 
-* node
-* jquerry 
-* react  
+* Nodejs
+* Jquery 
+* React  
 
 Expirience with that "new" toys is limited only to playing around with'em to explore capabilities.. 
 but i am keen to explore them..in real world projects.
 
 
-Aside i am sport and healthy nutrition enthuziast. 
+Aside i am sport and healthy nutrition enthuziast :)
 On my free time you can find me somewhere OUT THERE working on my hardcore skillzz like
 * slacklining 
 * windsurfing
 * hiking/climbing 
 * riding a bicycle with earphones in my ears :)
-Padawan (lvl n00b) in cooking 2..
+
+Padawan (lvl n00b) in cooking also..big FAN of JAPAN KNIFES!
 
 If you like to know more here is link to my [CV](/_data/AmirKosCV_hr.pdf) where things are little detailed.
 

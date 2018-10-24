@@ -48,8 +48,8 @@ but i am keen to explore them..in real world projects.
 
 
 {{ site.baseurl }}
-If you like to know more here is link to my [CV](/amirko/_data/AmirKosCV_en.pdf) where things are little detailed.
-If you want to know more about my [hobbies](/amirko/hobbies)
+If you like to know more here is link to my [CV](amirko/_data/AmirKosCV_en.pdf) where things are little detailed.
+If you want to know more about my [hobbies](amirko/hobbies)
 
 
 As my good frend once said:

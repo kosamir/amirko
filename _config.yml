@@ -1,6 +1,7 @@
 theme: jekyll-theme-architect
 title: Amirko's 
 description: homepage
+baseurl: /amirko 
 
 defaults:
   - scope:

@@ -1,3 +1,9 @@
 theme: jekyll-theme-architect
 title: Amirko's 
 description: homepage
+
+defaults:
+  - scope:
+      path: "/img"
+    values:
+      image: true

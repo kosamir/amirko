@@ -18,3 +18,5 @@ On my free time you can find me somewhere OUT THERE working on my hardcore skill
 * riding a bicycle with earphones in my ears :)
 
 Padawan (lvl n00b) in cooking also..big FAN of JAPAN KNIFES!
+
+[Home](/index.html)

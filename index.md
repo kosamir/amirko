@@ -48,7 +48,7 @@ but i am keen to explore them..in real world projects.
 
 
 
-If you like to know more here is link to my [CV](/_data/AmirKosCV_hr.pdf) where things are little detailed.
+If you like to know more here is link to my [CV]({{ site.url }}/_data/AmirKosCV_hr.pdf) where things are little detailed.
 If you want to know more about my [hobbies](/hobbies)
 
 

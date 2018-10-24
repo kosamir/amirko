@@ -16,29 +16,46 @@ After couple of failed attempts with geodesy I have finished computer programing
 s i have worked for couple off small it companies mainly as J2EE software developer.
 I came to the working for financial institiution  as J2EE architect in 2006.. and i work here still after all those years :)
 
+I have developed and maintained whole variety of programs/software for banking, mostly working on  connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
+Like: 
+
+* integrating core banking system to communicate with [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
+
+Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers)
+Working directly with end user.. it was FUN!
+
 My expirience is mostly based on developing and integrating back end systems written in Java programing language.
 With technologies like:
 * Spring, 
 * Hibernate 
 * Struts  
-* Jsf.
-Big fan of continuos automated software build and development( Jenkins, Maven, Ant)
+* Jsf
 
-I am not currently working on any project with all the new toys but  reading a lot about stuff that intrigues me
-* cloud( aws, docker) 
 
-and ocasionaly diving into endless jungle of javascript libraries like: 
+Big FAN of continuos automated software build/test/development( Jenkins, Maven, Ant)
+
+I am not currently working on any project with all the new toys,
+but  reading a lot about stuff that intrigues me like:
+
+* cloud technologies (AWS, Docker) 
+
+Ocasionaly i make high dive into endless jungle of javascript libraries like: 
+
+* node
 * jquerry 
 * react  
-* node
 
-Expirience with that new stuff is limited only to playing around with them to explore capabilities.. 
-but also keen to explore them..in real world projects.
+Expirience with that "new" toys is limited only to playing around with'em to explore capabilities.. 
+but i am keen to explore them..in real world projects.
 
 
-Aside i am sport and healthy nutrition enthuziast.. on my free time you can find me somewhere OUT THERE 
-working on my hardcore skillzz...mainly slacklining, windsurfing, hiking/climbing or riding a bicycle with earphones in my ears :)
-Padawan in cooking 2..
+Aside i am sport and healthy nutrition enthuziast. 
+On my free time you can find me somewhere OUT THERE working on my hardcore skillzz like
+* slacklining 
+* windsurfing
+* hiking/climbing 
+* riding a bicycle with earphones in my ears :)
+Padawan (lvl n00b) in cooking 2..
 
 If you like to know more here is link to my [CV](/_data/AmirKosCV_hr.pdf) where things are little detailed.
 
@@ -48,9 +65,6 @@ As my good frend once said:
 
 this is only draft version i will update(content/look and feel) as soon i get some feedback.
 
-
-
-... more to come..
 
 
 

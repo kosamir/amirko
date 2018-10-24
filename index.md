@@ -19,27 +19,27 @@ I came to the working for financial institiution  as J2EE architect in 2006.. an
 I have developed and maintained whole variety of programs/software for banking, mostly working on  connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
 Like: 
 
-* integrating core banking system to communicate with [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
+* integrating core banking system to communicate with systems like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
 
-Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers)
+Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers) 
 Working directly with end user.. it was FUN!
 
 My expirience is mostly based on developing and integrating back end systems written in Java programing language.
 With technologies like:
-* Spring, 
+* Spring 
 * Hibernate 
 * Struts  
-* Jsf
+* JSF
 
 
 Big FAN of continuos automated software build/test/development( Jenkins, Maven, Ant)
 
-I am not currently working on any project with all the new toys,
-but  reading a lot about stuff that intrigues me like:
+I am not currently working on any project with all that new toys,
+but  reading a lot about stuff that intrigues me like
 
 * cloud technologies (AWS, Docker) 
 
-Ocasionaly i make high dive into endless jungle of javascript libraries like: 
+Occasionally i make high dive into endless jungle of javascript libraries like: 
 
 * node
 * jquerry 

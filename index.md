@@ -18,19 +18,19 @@ I came to the working for financial institiution  as J2EE architect in 2006.. an
 
 My expirience is mostly based on developing and integrating back end systems written in Java programing language.
 With technologies like:
-  *Spring, 
-  *Hibernate 
-  *Struts  
-  *Jsf.
+  * Spring, 
+  * Hibernate 
+  * Struts  
+  * Jsf.
 Big fan of continuos automated software build and development( Jenkins, Maven, Ant)
 
 I am not currently working on any project with all the new toys but  reading a lot about stuff that intrigues me
 *cloud( aws, docker) 
 
-and ocasionaly diving into endless pit  of javascript libraries like: 
-  *jquerry 
-  *react  
-  *node
+and ocasionaly diving into endless jungle of javascript libraries like: 
+  * jquerry 
+  * react  
+  * node
 
 Expirience with that new stuff is limited only to playing around with them to explore capabilities.. 
 but also keen to explore them..in real world projects.
@@ -38,7 +38,7 @@ but also keen to explore them..in real world projects.
 
 Aside i am sport and healthy nutrition enthuziast.. on my free time you can find me somewhere OUT THERE 
 working on my hardcore skillzz...mainly slacklining, windsurfing, hiking/climbing or riding a bicycle with earphones in my ears :)
-I like to cook in my spare time also..
+Padawan in cooking 2..
 
 If you like to know more here is link to my [CV](/_data/AmirKosCV_hr.pdf) where things are little detailed.
 

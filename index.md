@@ -7,16 +7,13 @@ Hello!!!
 this is **ME** :)
 
 I am software architect with more than 10 years working in financial industry.
-My hobies includes all kind of crazy stuf.. 
-if you are interested you can check it out on my [Youtube](https://www.youtube.com/channel/UCEX5HdbTHiak9DOg4NzSy6w) chanell.
 
-After i've sucesfully finished my childhood dream project and (more or less) sucessfully landed wingusit without parachute 6 years ago, i have decided to return MORE seriously to my previous love and that is software development.
 
-After couple of failed attempts with geodesy I have finished computer programing on FESB(graduated 2005) afterward
+After couple of failed attempts with Geodesy I have finished computer programing on FESB(graduated 2005) afterward
 s i have worked for couple off small it companies mainly as J2EE software developer.
 I came to the working for financial institiution  as J2EE architect in 2006.. and i work here still after all those years :)
 
-I have developed and maintained whole variety of programs/software for banking, mostly working on  connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
+I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
 Like: 
 
 * integrating core banking system to communicate with systems like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
@@ -49,16 +46,10 @@ Expirience with that "new" toys is limited only to playing around with'em to exp
 but i am keen to explore them..in real world projects.
 
 
-Aside i am sport and healthy nutrition enthuziast :)
-On my free time you can find me somewhere OUT THERE working on my hardcore skillzz like
-* slacklining 
-* windsurfing
-* hiking/climbing 
-* riding a bicycle with earphones in my ears :)
 
-Padawan (lvl n00b) in cooking also..big FAN of JAPAN KNIFES!
 
 If you like to know more here is link to my [CV](/_data/AmirKosCV_hr.pdf) where things are little detailed.
+If you want to know more about my [hobbies](/hobbies)
 
 
 As my good frend once said:

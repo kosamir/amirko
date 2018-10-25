@@ -48,7 +48,7 @@ but i am keen to explore them..in real world projects.
 
 
 
-If you like to know more here is link to [CV] (docs)  where things are more in detail.
+If you like to know more here is link to [CV](docs)  where things are more in detail.
 If you want to know more about my [hobbies](hobbies)
 
 

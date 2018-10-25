@@ -35,9 +35,9 @@ Currently reading a lot about stuff that intrigues me like
 
 * **Cloud technologies (AWS, Docker)** 
 
-Occasionally makeing high dive into endless jungle of javascript libraries like: 
+Occasionally making high dive into endless jungle of javascript libraries like: 
 
-* **Nodejs**
+* **NodeJS**
 * **Jquery** 
 * **React**  
 

@@ -1,5 +1,9 @@
 - author: auth1
-  data: Lore ipsum1
+  data: |
+       Lore ipsum1 Lore ipsum1
+       Lore ipsum1 Lore ipsum1
+       Lore ipsum1 Lore ipsum1
+       Lore ipsum1 Lore ipsum1
 
 - author: auth2
   data: Lore ipsum4

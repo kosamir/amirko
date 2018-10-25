@@ -1,5 +1,5 @@
 # Hello!!!
-![image](img/Svemirko.jpg)
+![image](img/svemirko.jpg)
 ## this is **ME** :)
 
 I am software architect with more than 10 years working in financial industry.

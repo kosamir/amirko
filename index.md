@@ -33,7 +33,7 @@ Big FAN of continuos automated software build/test/development
 
 Currently reading a lot about stuff that intrigues me like
 
-* **cloud technologies (AWS, Docker)** 
+* **Cloud technologies (AWS, Docker)** 
 
 Occasionally makeing high dive into endless jungle of javascript libraries like: 
 

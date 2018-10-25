@@ -1,6 +1,6 @@
 # Hello!!!
 ![image](img/svemirko.jpg)
-## this is **ME** :)
+## this is **ME** :slightly_smiling_face:
 
 I am software architect with more than 10 years working in financial industry.
 
@@ -46,5 +46,5 @@ but i am keen to explore them..in real world projects.
 
 
 As my good frend once said:
->It is (NP-)hard to describe me.. so you got to expirience me :) :+1:
+>It is (NP-)hard to describe me.. so you got to expirience me :upside_down_face: :+1:
 

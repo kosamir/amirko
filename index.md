@@ -47,8 +47,8 @@ but i am keen to explore them..in real world projects.
 
 
 
-{{ site.baseurl }}
-If you like to know more here is link to my [CV](cv) where things are little detailed.
+
+If you like to know more here is link to my [CV](cv) where things are more detail explained.
 If you want to know more about my [hobbies](hobbies)
 
 
@@ -56,7 +56,7 @@ If you want to know more about my [hobbies](hobbies)
 As my good frend once said:
 >It is (NP-)hard to describe me.. so you got to expirience me :)
 
-this is only draft version i will update(content/look and feel) as soon i get some feedback.
+
 
 
 

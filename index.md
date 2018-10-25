@@ -19,32 +19,32 @@ Working directly with end user.. it was FUN!
 
 My expirience is mostly based on developing and integrating back end systems written in Java programing language.
 With technologies like:
-* Spring 
-* Hibernate 
-* Struts  
-* JSF
+* **Spring** 
+* **Hibernate** 
+* **Struts**  
+* **JSF**
 
 
 Big FAN of continuos automated software build/test/development
-* Jenkins
-* Maven 
-* Ant
+* **Jenkins**
+* **Maven** 
+* **Ant**
 
 
 Currently reading a lot about stuff that intrigues me like
 
-* cloud technologies (AWS, Docker) 
+* **cloud technologies (AWS, Docker)** 
 
 Occasionally makeing high dive into endless jungle of javascript libraries like: 
 
-* Nodejs
-* Jquery 
-* React  
+* **Nodejs**
+* **Jquery** 
+* **React**  
 
 Expirience with that "new" toys is limited only to playing around with'em to explore capabilities.. 
 but i am keen to explore them..in real world projects.
 
 
 As my good frend once said:
->It is (NP-)hard to describe me.. so you got to expirience me :upside_down_face: :+1:
+>It is (NP-)hard to describe me.. so you got to expirience me :upside_down_face: 
 

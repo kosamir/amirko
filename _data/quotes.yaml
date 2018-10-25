@@ -1,8 +1,11 @@
-author: auth1
+-author: auth1
 data: Lore ipsum1
-author:auth2
+
+-author:auth2
 data:Lore ipsum4
-author:auth3
+
+-author:auth3
 data:Lore ipsum3
-author: auth4
+
+-author: auth4
 data: Lore ipsum4

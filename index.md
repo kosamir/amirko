@@ -12,7 +12,7 @@ I came to the working for financial institiution  as J2EE architect in 2006.. an
 I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
 Like: 
 
-## integrating core system to communicate with things like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
+* integrating core system to communicate with things like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
 
 Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers) 
 Working directly with end user.. it was FUN!

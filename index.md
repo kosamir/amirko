@@ -1,8 +1,8 @@
-#### Welcome to Amirko Pages
+# Welcome to Amirko Pages
 
 ## Hello!!!
 
-# this is **ME** :)
+### this is **ME** :)
 
 I am software architect with more than 10 years working in financial industry.
 
@@ -14,31 +14,34 @@ I came to the working for financial institiution  as J2EE architect in 2006.. an
 I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
 Like: 
 
-* integrating core banking system to communicate with systems like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
+## integrating core banking system to communicate with systems like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
 
 Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers) 
 Working directly with end user.. it was FUN!
 
 My expirience is mostly based on developing and integrating back end systems written in Java programing language.
 With technologies like:
-* Spring 
-* Hibernate 
-* Struts  
-* JSF
+### Spring 
+### Hibernate 
+### Struts  
+### JSF
 
 
-Big FAN of continuos automated software build/test/development( Jenkins, Maven, Ant)
+Big FAN of continuos automated software build/test/development
+### Jenkins
+### Maven 
+### Ant
 
 
 Currently reading a lot about stuff that intrigues me like
 
-* cloud technologies (AWS, Docker) 
+### cloud technologies (AWS, Docker) 
 
 Occasionally makeing high dive into endless jungle of javascript libraries like: 
 
-* Nodejs
-* Jquery 
-* React  
+### Nodejs
+### Jquery 
+### React  
 
 Expirience with that "new" toys is limited only to playing around with'em to explore capabilities.. 
 but i am keen to explore them..in real world projects.

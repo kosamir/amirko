@@ -3,7 +3,7 @@ layout: default
 title: Hobbies
 premalink: /hobbies/
 ---
-### Hobies
+# Hobies
 ![image](../img/svemirko.jpg)
 
 My hobies includes all kind of crazy stuf.. 
@@ -23,4 +23,4 @@ On my free time you can find me somewhere OUT THERE working on my hardcore skill
 
 Padawan (lvl n00b) in cooking also..big FAN of JAPANESE BLADES mainly knives!
 
-[Home](/amirko)
+

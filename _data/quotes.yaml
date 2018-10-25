@@ -1,20 +1,8 @@
 author: auth1
-data: |
-       Lore Ipsum lore ipsum
-       Lore Ipsum lore ipsum
-       Lore Ipsum lore ipsum
-author: auth2
-data: |
-      Lore Ipsum2 lore ipsum
-      Lore Ipsum lore ipsum
-      Lore Ipsum lore ipsum
-author: auth3
-data: |
-      Lore Ipsum2 lore ipsum
-      Lore Ipsum lore ipsum
-      Lore Ipsum lore ipsum
+data: Lore ipsum1
+author:auth2
+data:Lore ipsum4
+author:auth3
+data:Lore ipsum3
 author: auth4
-data: |
-      Lore Ipsum2 lore ipsum
-      Lore Ipsum lore ipsum
-      Lore Ipsum lore ipsum
+data: Lore ipsum4

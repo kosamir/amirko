@@ -5,11 +5,11 @@
 I am software architect with more than 10 years working in financial industry.
 
 
-After couple of failed attempts with Geodesy I have finished computer programing on FESB(graduated 2005) afterward
-s i have worked for couple off small it companies mainly as J2EE software developer.
-I came to the working for financial institiution  as J2EE architect in 2006.. and i work here still after all those years :)
+After couple of failed attempts with Geodesy I have finished computer programing on FESB(graduated 2005) afterward's
+i have worked for couple off IT companies mainly as J2EE software developer.
+I came to the working for financial institiution as J2EE architect in 2006.. and I work here still after all those years :slightly_smiling_face:
 
-I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
+I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to talk to some core functionalty trough SOAP or JMS. 
 Like: 
 
 * integrating core system to communicate with things like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)

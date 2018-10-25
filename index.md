@@ -45,13 +45,6 @@ Expirience with that "new" toys is limited only to playing around with'em to exp
 but i am keen to explore them..in real world projects.
 
 
-
-
-If you like to know more here is link to [CV](docs)  where things are more in detail.
-If you want to know more about my [hobbies](hobbies)
-
-
-
 As my good frend once said:
 >It is (NP-)hard to describe me.. so you got to expirience me :)
 

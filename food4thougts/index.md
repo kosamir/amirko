@@ -7,4 +7,4 @@ premalink: /food4thougts
 ### Nothing here.... yet 
 
 :blush:
-{% include quotes.html %}
+<!--{% include quotes.html %} -->

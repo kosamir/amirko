@@ -5,33 +5,35 @@
 I am software architect with more than 10 years working in financial industry.
 
 
-After couple of failed attempts with Geodesy I have finished computer programing on FESB(graduated 2005) afterward's
-i have worked for couple off IT companies mainly as J2EE software developer.
-I came to the working for financial institiution as J2EE architect in 2006.. and I work here still after all those years :slightly_smiling_face:
+After couple of failed attempts with Geodesy I have finished computer programing on FESB(graduated 2005)  
+afterward's i have worked for couple off IT companies mainly as J2EE software developer.  
+I came to the working for financial institiution as J2EE architect in 2006  
+and I work here still after all those years :slightly_smiling_face:  
+
 
 I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to talk to some core functionalty trough SOAP or JMS. 
 Like: 
 
 * integrating core system to communicate with things like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
 
-Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers) 
+Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers)  
 Working directly with end user.. it was FUN!
 
 My expirience is mostly based on developing and integrating back end systems written in Java programing language.
-With technologies like:
+With technologies like:  
 * **Spring** 
 * **Hibernate** 
 * **Struts**  
 * **JSF**
 
 
-Big FAN of continuos automated software build/test/development
+Big FAN of continuos automated software build/test/development  
 * **Jenkins**
 * **Maven** 
 * **Ant**
 
 
-Currently reading a lot about stuff that intrigues me like
+Currently reading a lot about stuff that intrigues me like  
 
 * **Cloud technologies (AWS, Docker)** 
 

@@ -1,5 +1,3 @@
-# Welcome to Amirko Pages
-
 ## Hello!!!
 
 ### this is **ME** :)
@@ -14,17 +12,17 @@ I came to the working for financial institiution  as J2EE architect in 2006.. an
 I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to acces some core banking functionalty trough SOAP or JMS. 
 Like: 
 
-## integrating core banking system to communicate with systems like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
+## integrating core system to communicate with things like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
 
 Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers) 
 Working directly with end user.. it was FUN!
 
 My expirience is mostly based on developing and integrating back end systems written in Java programing language.
 With technologies like:
-### Spring 
-### Hibernate 
-### Struts  
-### JSF
+* Spring 
+* Hibernate 
+* Struts  
+* JSF
 
 
 Big FAN of continuos automated software build/test/development

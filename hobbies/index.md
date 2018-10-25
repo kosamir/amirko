@@ -13,7 +13,7 @@ if you are interested you can check them out on my [Youtube](https://www.youtube
 
 After i've sucesfully finished my childhood dream project and (more or less) 
 sucessfully landed wingusuit without parachute 6 years ago, having done that, 
-i have decided to return MORE seriously to my previous :red_heart: and that is software development.
+i have decided to return MORE seriously to my previous :heart: and that is software development.
 
 Aside i am sport and healthy nutrition enthuziast :grinning_face_with_big_eyes:
 On my free time you can find me somewhere OUT THERE working on my hardcore skillzz, doing
@@ -26,6 +26,7 @@ On my free time you can find me somewhere OUT THERE working on my hardcore skill
 
 Padawan (lvl n00b) in cooking also..big FAN of JAPANESE BLADES mainly knives!
 
-:grinning_face_with_big_eyes:
+
+
 
 

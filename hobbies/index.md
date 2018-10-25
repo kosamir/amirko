@@ -7,11 +7,12 @@ premalink: /hobbies/
 ![image](../img/svemirko.jpg)
 
 My hobies includes all kind of crazy stuf.. 
-if you are interested you can check it out on my [Youtube](https://www.youtube.com/channel/UCEX5HdbTHiak9DOg4NzSy6w) chanell.
+if you are interested you can check it out on my [Youtube](https://www.youtube.com/channel/UCEX5HdbTHiak9DOg4NzSy6w) 
+[Vimeo](https://vimeo.com/user1204596) chanell's.
 
 
 After i've sucesfully finished my childhood dream project and (more or less) 
-sucessfully landed wingusuit without parachute 6 years ago, 
+sucessfully landed wingusuit without parachute 6 years ago, having done that, 
 i have decided to return MORE seriously to my previous <3 and that is software development.
 
 Aside i am sport and healthy nutrition enthuziast :)

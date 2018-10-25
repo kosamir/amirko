@@ -15,12 +15,12 @@ After i've sucesfully finished my childhood dream project and (more or less)
 sucessfully landed wingusuit without parachute 6 years ago, having done that, 
 i have decided to return MORE seriously to my previous <3 and that is software development.
 
-Aside i am sport and healthy nutrition enthuziast :)
+Aside i am sport and healthy nutrition enthuziast :grinning_face_with_big_eyes:
 On my free time you can find me somewhere OUT THERE working on my hardcore skillzz, doing
 * slacklining 
 * windsurfing
 * hiking/climbing 
-* riding a bicycle with earphones in my ears :)
+* riding a bicycle with earphones in my ears :grinning_face_with_big_eyes:
 
 Padawan (lvl n00b) in cooking also..big FAN of JAPANESE BLADES mainly knives!
 

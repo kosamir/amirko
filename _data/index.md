@@ -1,7 +1,8 @@
 ---
 title: CV
-permalink: /cv/
 layout: default
+permalink: /cv/
+
 ---
 
 Hello

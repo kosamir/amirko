@@ -8,4 +8,5 @@ premalink: /food4thougts
 
 :blush:
 
-<!--{% include quotes.html %} -->
+<!--{% include quotes.html %} 
+-->

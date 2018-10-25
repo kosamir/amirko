@@ -1,5 +1,5 @@
 ---
 layout: default
 title: hello
-premalink: /docs/
+premalink: /cv/
 ---

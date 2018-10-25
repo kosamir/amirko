@@ -1,16 +1,20 @@
 author: auth1
-data: >Lore Ipsum lore ipsum
+data: >
+       Lore Ipsum lore ipsum
        Lore Ipsum lore ipsum
        Lore Ipsum lore ipsum
 author: auth2
-data: Lore Ipsum2 lore ipsum
+data: >
+      Lore Ipsum2 lore ipsum
       Lore Ipsum lore ipsum
       Lore Ipsum lore ipsum
 author: auth3
-data: Lore Ipsum2 lore ipsum
+data: >
+      Lore Ipsum2 lore ipsum
       Lore Ipsum lore ipsum
       Lore Ipsum lore ipsum
 author: auth4
-data: Lore Ipsum2 lore ipsum
+data: >
+      Lore Ipsum2 lore ipsum
       Lore Ipsum lore ipsum
       Lore Ipsum lore ipsum

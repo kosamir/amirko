@@ -1,10 +1,9 @@
 
-<ul>
+<ul class="post">
 {% for quote in site.data.quotes %}
   <li>
-    <a href="https://github.com/{{ quote.author }}">
-      {{ quote.data }}
-    </a>
+    <p> {{quote.data}}</p>
+    <p> {{quote.author}}</p>
   </li>
 {% endfor %}
 </ul>

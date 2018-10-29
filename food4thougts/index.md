@@ -5,6 +5,7 @@ premalink: /food4thougts
 ---
 
 ### THE BOOK OF THE VOID
+
     The Ni To Ichi Way of strategy is recorded in this the Book of the Void.
     
     What is called the spirit of the void is where there is nothing. 
@@ -26,10 +27,13 @@ premalink: /food4thougts
     When your spirit is not in the least clouded, when the clouds of bewilderment clear away, there is the true void.
     
     Until you realise the true Way, whether in Buddhism or in common sense, you
-    may think that things are correct and in order. However, if we look at things objectively, from
-    the viewpoint of laws of the world, we see various doctrines departing from the true Way. Know
-    well this spirit, and with forthrightness as the foundation and the true spirit as the Way. Enact
-    strategy broadly, correctly and openly.
+    may think that things are correct and in order. 
+    
+    However, if we look at things objectively, from the viewpoint of laws of the world, 
+    we see various doctrines departing from the true Way.
+    Know  well this spirit, and with forthrightness as the foundation and the true spirit as the Way.
+    Enact strategy broadly, correctly and openly.
+    
     Then you will come to think of things in a wide sense and, taking the void as the
     Way, you will see the Way as void.
     
@@ -37,7 +41,7 @@ premalink: /food4thougts
 ###    the Way has existance, spirit is nothingness.
     
 #### Twelfth day of the fifth month, second year of Shoho (1645)
-####    Teruro Magonojo
+#### Teruro Magonojo
 
 
 

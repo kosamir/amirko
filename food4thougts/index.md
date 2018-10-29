@@ -37,11 +37,12 @@ premalink: /food4thougts
     Then you will come to think of things in a wide sense and, taking the void as the
     Way, you will see the Way as void.
     
-###    In the void is virtue, and no evil. Wisdom has existance, principle has existance,
-###    the Way has existance, spirit is nothingness.
+    In the void is virtue, and no evil. Wisdom has existance, principle has existance,
+    the Way has existance, spirit is nothingness.
     
-#### Twelfth day of the fifth month, second year of Shoho (1645)
-#### Teruro Magonojo
+    Twelfth day of the fifth month, second year of Shoho (1645)
+   
+    Teruro Magonojo SHINMEN MUSASHI
 
 
 

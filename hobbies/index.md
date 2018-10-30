@@ -23,7 +23,7 @@ On my free time you can find me somewhere OUT THERE working on my hardcore skill
 * hiking/climbing 
 
 
-Padawan (lvl n00b) in cooking also..big FAN of JAPANESE BLADES mainly knives!
+Padawan in cooking ..big FAN of JAPANESE BLADES mainly knives!
 
 
 

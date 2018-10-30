@@ -3,10 +3,10 @@ layout: default
 title: Hobbies
 premalink: /hobbies/
 ---
-# Hobies
+# Hobbies
 ![image](../img/svemirko.jpg)
 
-My hobies includes all kind of crazy stuf..if you are interested you can check them out:  
+My hobbies includes all kind of crazy stuf..if you are interested you can check them out on my 
 [Youtube](https://www.youtube.com/channel/UCEX5HdbTHiak9DOg4NzSy6w) or [Vimeo](https://vimeo.com/user1204596) chanell's.     
 
 

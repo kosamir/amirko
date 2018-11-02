@@ -2,6 +2,7 @@
 layout: default
 title: Hobbies
 premalink: /hobbies/
+description: hobbies
 ---
 # Hobbies
 ![image](../img/svemirko.jpg)

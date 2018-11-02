@@ -4,9 +4,6 @@ layout: default
 premalink: /food4thougts
 description: Food4Thougts
 ---
-# Below is a small collection of
-## of inspirational stuff that I found very interesting
-### hope u will gain something of those as I am...
 
 
 ### Timing in strategy

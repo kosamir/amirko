@@ -2,6 +2,7 @@
 title: Food4Thougts
 layout: default
 premalink: /food4thougts
+description: Food4Thougts
 ---
 # Below is a small collection of
 ## of inspirational stuff that I found very interesting

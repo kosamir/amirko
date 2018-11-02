@@ -1,3 +1,10 @@
+---
+title: Homepage
+description: home :)
+
+---
+
+
 # Hello!!!
 ![image](img/svemirko.jpg)
 ## this is **ME** :slightly_smiling_face:

@@ -33,7 +33,8 @@ premalink: /food4thougts
      hand combat propagated in the world. This is recorded for the first time in the
      five books of Ground, Water, Fire, Wind, and the Void. This is the Way for men
      who want to learn my strategy:
-     Do not think dishonestly.
+     
+     -Do not think dishonestly.
      -The Way is in training.
      -Become aquainted with every art.
      -Know the Ways of professions.
@@ -54,7 +55,7 @@ premalink: /food4thougts
      be able to beat ten men with your spirit. When you have reached this point, will
      it not mean that you are invincible?
      
-     *Moreover*, in large scale strategy the superior man will manage many subordinates
+     Moreover, in large scale strategy the superior man will manage many subordinates
      dextrously, bear himself correctly, govern the country and foster the people,
      thus preserving the ruler's discipline. If there is a Way involving the spirit
      of not being defeated, to help oneself and gain honour, it is the Way of

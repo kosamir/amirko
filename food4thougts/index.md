@@ -4,6 +4,20 @@ layout: default
 premalink: /food4thougts
 ---
 
+### CROSSING AT FORD
+
+"Crossing at a ford" means, for example, crossing the sea at a strait, or crossing over a hundred miles of broad sea at a crossing place.  
+I believe this "crossing at a ford" occurs often in man's lifetime.  
+It means setting sail even though your friends stay in harbor, knowing the route, knowing the soundness of your ship and the favor of the day.   
+When all the conditions are met, and there is perhaps a favorable wind, or a tailwind, then set sail.  
+
+If the wind changes within a few miles of your destination, you must row across the remaining distance without sail.
+
+If you attain this spirit, it applies to everyday life. You must always think of crossing at a ford.
+
+
+
+
 ### THE BOOK OF THE VOID
 
     The Ni To Ichi Way of strategy is recorded in this the Book of the Void.

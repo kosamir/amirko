@@ -3,6 +3,10 @@ title: Food4Thougts
 layout: default
 premalink: /food4thougts
 ---
+# Below is a small collection of
+## of inspirational stuff that I found very interesting
+### hope u will gain something of those as I am...
+
 
 ### Timing in strategy
      There is timing in everything. Timing in strategy cannot be mastered without a  

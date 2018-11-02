@@ -14,7 +14,8 @@ premalink: /food4thougts
      There is no timing in the Void.
      There is timing in the whole life of the warrior, in his thriving and declining,
      in his harmony and discord. 
-     Similarly, there is timing in the Way of the merchant, in the rise and fall of capital. All things entail rising and falling
+     Similarly, there is timing in the Way of the merchant, in the rise and fall of capital. 
+     All things entail rising and falling
      timing. You must be able to discern this. In strategy there are various timing
      considerations. From the outset you must know the applicable timing and the
      inapplicable timing, and from among the large and small things and the fast and
@@ -53,7 +54,7 @@ premalink: /food4thougts
      be able to beat ten men with your spirit. When you have reached this point, will
      it not mean that you are invincible?
      
-     Moreover, in large scale strategy the superior man will manage many subordinates
+     *Moreover*, in large scale strategy the superior man will manage many subordinates
      dextrously, bear himself correctly, govern the country and foster the people,
      thus preserving the ruler's discipline. If there is a Way involving the spirit
      of not being defeated, to help oneself and gain honour, it is the Way of
@@ -62,9 +63,11 @@ premalink: /food4thougts
 
 ### CROSSING AT FORD
 
-     "Crossing at a ford" means, for example, crossing the sea at a strait, or crossing over a hundred miles of broad sea at a crossing place.  
+     "Crossing at a ford" means, for example, crossing the sea at a strait,  
+     or crossing over a hundred miles of broad sea at a crossing place.   
      I believe this "crossing at a ford" occurs often in man's lifetime.  
-     It means setting sail even though your friends stay in harbor, knowing the route, knowing the soundness of your ship and the favor  of the day.   
+     It means setting sail even though your friends stay in harbor, knowing the route, 
+     knowing the soundness of your ship and the favor  of the day.   
      When all the conditions are met, and there is perhaps a favorable wind, or a tailwind, then set sail.  
 
      If the wind changes within a few miles of your destination, you must row across the remaining distance without sail.
@@ -95,7 +98,7 @@ premalink: /food4thougts
     
     With your spirit settled, accumulate practice day by day, and hour by hour.
     
-    Polish the twofold spirit heart and mind, and sharpen the twofold  gaze perception and sight.
+    Polish the twofold spirit heart and mind, and sharpen the twofold gaze perception and sight.
     When your spirit is not in the least clouded, when the clouds of bewilderment clear away, there is the true void.
     
     Until you realise the true Way, whether in Buddhism or in common sense, you

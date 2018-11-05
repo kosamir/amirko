@@ -12,8 +12,9 @@ description: home :)
 I am software architect with more than 10 years working in financial industry.
 
 
-After couple of failed attempts with Geodesy I have finished computer programing on FESB(graduated 2005)  
+After couple of failed attempts with Geodesy I have finished computer programming on FESB (graduated 2005)    
 afterward's i have worked for couple off IT companies mainly as J2EE software developer.  
+
 I came to the working for financial institiution as J2EE architect in 2006  
 and I work here still after all those years :slightly_smiling_face:  
 

@@ -10,3 +10,12 @@ defaults:
       image: true
 plugins:
   - jemoji
+  
+social:
+  name: Amir Kos 
+  links:
+    - https://www.youtube.com/channel/UCEX5HdbTHiak9DOg4NzSy6w
+    - https://www.facebook.com/amir.kos.18
+    - https://www.linkedin.com/in/amirkos/
+    - https://vimeo.com/user1204596
+

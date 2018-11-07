@@ -2,6 +2,7 @@ theme: jekyll-theme-architect
 title: Amirko's 
 description: homepage
 baseurl: /amirko 
+author: Amir Kos
 
 defaults:
   - scope:

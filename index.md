@@ -5,7 +5,7 @@ description: home
 ---
 
 
-# Hello!
+# Hello !
 ![image](img/svemirko.jpg)
 ## this is **ME** 
 
@@ -19,9 +19,10 @@ I came to the working for financial institiution as J2EE architect in 2006
 and I work'ed there for more than 12 years.. 
 
 
-I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to talk to some core functionalty trough SOAP or JMS. 
-Like: 
+I have developed and maintained whole variety of programs/software for banking, 
+mostly working on connecting outside apps to talk to some core functionalty trough SOAP or JMS. 
 
+Like: 
 * integrating core system to communicate with things like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
 
 Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers)  
@@ -50,9 +51,6 @@ Occasionally making high dive into endless jungle of javascript libraries like:
 * **NodeJS**
 * **Jquery** 
 * **React**  
-
-Expirience with that "new" toys is limited only to playing around with'em to explore capabilities.. 
-but i am keen to explore them..in real world projects.
 
 
 As my good frend once said:

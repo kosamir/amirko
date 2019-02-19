@@ -1,13 +1,13 @@
 ---
 title: Amir Kos  ~Homepage
-description: home :)
+description: home
 
 ---
 
 
 # Hello!!!
 ![image](img/svemirko.jpg)
-## this is **ME** :slightly_smiling_face:
+## this is **ME** 
 
 I am software architect with more than 10 years working in financial industry.
 
@@ -16,7 +16,7 @@ After couple of failed attempts with Geodesy I have finished computer programmin
 afterward's i have worked for couple off IT companies mainly as J2EE software developer.  
 
 I came to the working for financial institiution as J2EE architect in 2006  
-and I work here still after all those years :slightly_smiling_face:  
+and I work'ed there for more than 12 years.. 
 
 
 I have developed and maintained whole variety of programs/software for banking, mostly working on connecting outside apps to talk to some core functionalty trough SOAP or JMS. 
@@ -56,5 +56,5 @@ but i am keen to explore them..in real world projects.
 
 
 As my good frend once said:
->It is (NP-)hard to describe me.. so you got to expirience me :upside_down_face: 
+>It is (NP-)hard to describe me.. so you got to expirience me 
 

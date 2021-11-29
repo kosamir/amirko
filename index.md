@@ -23,7 +23,7 @@ I have developed and maintained whole variety of programs/software for banking,
 mostly working on connecting outside apps to talk to some core functionalty trough SOAP or JMS. 
 
 Like: 
-* integrating core system to communicate with things like [SXS](https://see.asseco.com/sectors/public-telco-utilities/security/sxs-630/)
+* integrating core system to communicate with things like [SXS](https://sxs.asseco.com/)
 
 Created and mainteined APS (system for scoring credit capabiliteis for litle entrepenuers)  
 Working directly with end user.. it was FUN!

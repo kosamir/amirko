@@ -17,26 +17,42 @@ description: Food4Thougts
      In all skills and ablilities there is timing. 
      
      There is no timing in the Void.
-     There is timing in the whole life of the warrior, in his thriving and declining,
+     There is timing in the whole life of the warrior, 
+     in his thriving and declining,
      in his harmony and discord. 
-     Similarly, there is timing in the Way of the merchant, in the rise and fall of capital. 
+     Similarly, there is timing in the Way of the merchant, 
+     in the rise and fall of capital. 
      All things entail rising and falling timing. 
-     You must be able to discern this. In strategy there are various timing
-     considerations. From the outset you must know the applicable timing and the
-     inapplicable timing, and from among the large and small things and the fast and
-     slow timings find the relevant timing, first seeing the distance timing and the
-     background timing. This is the main thing in strategy. It is especially
-     important to know the background timing, otherwise your strategy will become uncertain.
+     You must be able to discern this. 
+     In strategy there are various timing
+     considerations. From the outset you must know 
+     the applicable timing and the
+     inapplicable timing, and from among the large and small 
+     things and the fast and
+     slow timings find the relevant timing, 
+     first seeing the distance timing and the
+     background timing. This is the main thing in strategy. 
+     It is especially
+     important to know the background timing, 
+     otherwise your strategy will become uncertain.
      
-     You win battles with the timing in the Void born of the timing of cunning by  
-     knowing the enemies' timing, and thus using a timing which the enemy does not  
-     expect.  
-     All the five books are chiefly concerned with timing. You must train  
-     sufficiently to appreciate this.
-     If you practise day and night in the above Ichi school strategy, your spirit
-     will naturally broaden. This is large scale strategy and the strategy of hand to
-     hand combat propagated in the world. This is recorded for the first time in the
-     five books of Ground, Water, Fire, Wind, and the Void. This is the Way for men
+     You win battles with the timing in the Void born of the 
+     timing of cunning by  
+     knowing the enemies' timing, and thus using a timing which the 
+     enemy does not expect. 
+       
+     All the five books are chiefly concerned with timing. 
+     You must train sufficiently to appreciate this. 
+     
+     If you practise day and night in the above Ichi school strategy, 
+     your spirit will naturally broaden.
+      
+     This is large scale strategy and the strategy of hand to
+     hand combat propagated in the world. 
+     This is recorded for the first time in the
+     five books of 
+     Ground, Water, Fire, Wind, and the Void. 
+     This is the Way for men
      who want to learn my strategy:
      
      -Do not think dishonestly.
@@ -53,9 +69,11 @@ description: Food4Thougts
      and train in the Way of strategy. 
      If you do not look at things on a large scale it
      will be difficult for you to master strategy. 
-     If you learn and attain this strategy you will never lose even to twenty of thirty enemies.
-     More than anything to start with you must set your heart on strategy and earnestly stick
-     to the Way. You will come to be able to actually beat men in fights, and to be
+     If you learn and attain this strategy you will never lose 
+     even to twenty of thirty enemies.
+     More than anything to start with you must set your heart on strategy
+     and earnestly stick to the Way.
+     You will come to be able to actually beat men in fights, and to be
      able to win with your eye. 
      Also by training you will be able to freely control your won body, 
      conquer men with your body, and with sufficient training you will
@@ -63,11 +81,14 @@ description: Food4Thougts
      When you have reached this point, 
      will it not mean that you are invincible?
      
-     Moreover, in large scale strategy the superior man will manage many subordinates
-     dextrously, bear himself correctly, govern the country and foster the people,
-     thus preserving the ruler's discipline. If there is a Way involving the spirit
-     of not being defeated, to help oneself and gain honour, it is the Way of
-     strategy.
+     Moreover, in large scale strategy the superior man will 
+     manage many subordinates dextrously, bear himself correctly,
+      govern the country and foster the people,
+     thus preserving the ruler's discipline. 
+     If there is a Way involving the spirit
+     of not being defeated, to help oneself and gain honour, 
+     it is the Way of strategy.
+     
      
 
 ### CROSSING AT FORD

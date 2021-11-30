@@ -161,7 +161,7 @@ description: Food4Thougts
 
 
 
-<!--
+
 {% include quotes.html %} 
 
--->
+

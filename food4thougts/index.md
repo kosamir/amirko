@@ -46,11 +46,10 @@ This is recorded for the first time in the   five books of
 - Water
 - Fire
 - Wind
- and the Void. 
+- Void. 
 
 This is the Way for men  who want to learn my strategy:
     
-     
 - Do not think dishonestly.
 - The Way is in training.
 - Become aquainted with every art.

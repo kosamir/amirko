@@ -7,6 +7,7 @@ description: Food4Thougts
 
 
 ### Timing in strategy
+
 There is timing in everything. 
 Timing in strategy cannot be mastered without a great deal of practice.
        
@@ -41,7 +42,7 @@ If you practise day and night in the above Ichi school strategy,  your spirit wi
       
 This is large scale strategy and the strategy of hand to  hand combat propagated in the world.
      
-This is recorded for the first time in the   five books of 
+This is recorded for the first time in the   five books:
 - Ground
 - Water
 - Fire
@@ -80,6 +81,7 @@ govern the country and foster the people, thus preserving the ruler's discipline
 
 If there is a Way involving the spirit of not being defeated, to help oneself and gain honour, 
 it is the Way of strategy.
+
     
 
 ### CROSSING AT FORD

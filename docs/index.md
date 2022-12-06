@@ -4,7 +4,7 @@ title: hello
 description: CV
 
 ---
-# CV
+# CV EN
 {% include cv.html %}
-# CV cro
+# CV CRO
 {% include cv_hr.html %}
